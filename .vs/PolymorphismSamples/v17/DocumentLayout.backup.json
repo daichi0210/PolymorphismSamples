@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|d:\\dev\\windows\\src\\repos\\polymorphismsamples\\polymorphismsamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|solutionrelative:polymorphismsamples\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|d:\\dev\\windows\\src\\repos\\polymorphismsamples\\polymorphismsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|solutionrelative:polymorphismsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|d:\\dev\\windows\\src\\repos\\polymorphismsamples\\polymorphismsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\polymorphismsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FAD6F37F-FFCE-42E1-8547-55683700F20D}|PolymorphismSamples\\PolymorphismSamples.csproj|solutionrelative:polymorphismsamples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Animal.cs",
+              "RelativeDocumentMoniker": "PolymorphismSamples\\Animal.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Animal.cs",
+              "RelativeToolTip": "PolymorphismSamples\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:14:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Form1.cs",
               "RelativeDocumentMoniker": "PolymorphismSamples\\Form1.cs",
               "ToolTip": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Form1.cs",
               "RelativeToolTip": "PolymorphismSamples\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T12:59:45.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Form1.cs",
               "RelativeDocumentMoniker": "PolymorphismSamples\\Form1.cs",
               "ToolTip": "D:\\dev\\windows\\src\\repos\\PolymorphismSamples\\PolymorphismSamples\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "PolymorphismSamples\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T12:50:21.385Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2024-12-31T12:50:21.385Z"
             }
           ]
         }

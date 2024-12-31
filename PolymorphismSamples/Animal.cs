@@ -7,20 +7,13 @@ using System.Threading.Tasks;
 
 namespace PolymorphismSamples
 {
-    internal class Animal
+    internal abstract class Animal
     {
         public string Color { get; set; } = "茶";
         public string Smell { get; set; } = "コーヒー";
         public string Flavor { get; set; } = "チョコレート";
 
-        public virtual Image Sing()
-        {
-            return Resources.AnimalCookieSing;
-        }
-
-        public virtual Image Reset()
-        {
-            return Resources.AnimalCookie;
-        }
+        public abstract Image Sing();
+        public abstract Image Reset();
     }
 }
